@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Guillermo Quinteros</h1>
 <h3 align="center">A Technology enthusiast from Argentina</h3>
 
+- 📫 visita mi linkedin [https://www.linkedin.com/in/guillermoquinteros/](https://www.linkedin.com/in/guillermoquinteros/)
+
 - 📝 Visit my blog [https://guillermoquinteros6.wixsite.com/miblog](https://guillermoquinteros6.wixsite.com/miblog)
 
 - 📫 How to reach me **elder.quinteros@hotmail.com**
 
 - 📄 visit me on my social networks [https://linktr.ee/guillermo073?utm_source=linktree_profile_share&ltsid=49255d9e-0be6-41c0-ac01-af85f924aac4](https://linktr.ee/guillermo073?utm_source=linktree_profile_share&ltsid=49255d9e-0be6-41c0-ac01-af85f924aac4)
 
-- ⚡ Fun fact **Developers learn in a variety of ways Although 43% of developers have a bachelor’s degree in computer science or a similar field, 69% claim to be partially self-taught.**
+- ⚡ Fun fact: **Developers learn in a variety of ways Although 43% of developers have a bachelor’s degree in computer science or a similar field, 69% claim to be partially self-taught.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/guillermo quinteros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermo quinteros" height="30" width="40" /></a>
 <a href="https://instagram.com/guillermolquinteros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guillermolquinteros" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/guillermo quinteros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="guillermo quinteros" height="30" width="40" /></a>
 </p>

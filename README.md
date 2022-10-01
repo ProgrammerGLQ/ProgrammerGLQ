@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillermo Quinteros</h1>
 <h3 align="center">A Technology enthusiast from Argentina</h3>
 
-- 📫 visita mi linkedin [https://www.linkedin.com/in/guillermoquinteros/](https://www.linkedin.com/in/guillermoquinteros/)
+- 📫 Visit my linkedin [https://www.linkedin.com/in/guillermoquinteros/](https://www.linkedin.com/in/guillermoquinteros/)
 
 - 📝 Visit my blog [https://guillermoquinteros6.wixsite.com/miblog](https://guillermoquinteros6.wixsite.com/miblog)
 

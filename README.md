@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Guillermo Quinteros</h1>
+<h1 align="center">Hi 👋, I'm William Quinteros</h1>
 <h3 align="center">A Technology enthusiast from Argentina</h3>
 
 - 📫 Visit my linkedin [https://www.linkedin.com/in/guillermoquinteros/](https://www.linkedin.com/in/guillermoquinteros/)
 
 - 📝 Visit my blog [https://guillermoquinteros6.wixsite.com/miblog](https://guillermoquinteros6.wixsite.com/miblog)
 
-- 📫 How to reach me **elder.quinteros@hotmail.com**
+- 📫 How to reach me **williamqsolutions@gmail.com**
 
 - 📄 visit me on my social networks [https://linktr.ee/guillermo073](https://linktr.ee/guillermo073)
 
